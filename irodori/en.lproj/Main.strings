@@ -1,0 +1,21 @@
+
+/* Class = "IBUILabel"; text = "イロドリ"; ObjectID = "AQN-P0-VSz"; */
+"AQN-P0-VSz.text" = "Irodori";
+
+/* Class = "IBUIButton"; normalTitle = "Start"; ObjectID = "IVk-hK-HAp"; */
+"IVk-hK-HAp.normalTitle" = "Start";
+
+/* Class = "IBUILabel"; text = "Miss"; ObjectID = "ak3-Mb-zTq"; */
+"ak3-Mb-zTq.text" = "Miss";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "hgb-Nt-Dg5"; */
+"hgb-Nt-Dg5.text" = "0";
+
+/* Class = "IBUILabel"; text = "Time"; ObjectID = "mRO-OR-TfI"; */
+"mRO-OR-TfI.text" = "Time";
+
+/* Class = "IBUILabel"; text = "Score"; ObjectID = "syG-WY-VV4"; */
+"syG-WY-VV4.text" = "Score";
+
+/* Class = "IBUILabel"; text = "00:00:000"; ObjectID = "yd8-O1-f40"; */
+"yd8-O1-f40.text" = "00:00:000";
